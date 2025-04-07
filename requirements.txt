@@ -1,0 +1,15 @@
+Flask
+SQLAlchemy
+faiss-cpu
+torch
+transformers
+python-dotenv
+requests
+PyJWT
+werkzeug
+email-validator
+Pillow
+Flask-SQLAlchemy
+fastapi
+uvicorn
+googletrans
